@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 Personal open source projects or contributions to open source projects can be accessed here. Closed source projects are listed below.
 
 Closed source projects:
-- Deep Anatomy (in cooperation with Fraunhofer MEVIS): [Link (German only)](https://www.deepanatomy.de/WiSe_2019_SoSe_2020/Arbeitsgruppen/FrontBackend.html "Link (German only)")
+- Deep Anatomy (in cooperation with Fraunhofer MEVIS): [Link (German only)](https://www.deepanatomy.de/Archive/WiSe_2019_SoSe_2020/Team.html#Marvin "Link (German only)")
