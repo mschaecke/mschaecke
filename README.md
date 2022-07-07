@@ -11,3 +11,5 @@ Personal open source projects or contributions to open source projects can be ac
 
 Closed source projects:
 - Deep Anatomy (in cooperation with Fraunhofer MEVIS): [Link (German only)](https://www.deepanatomy.de/Archive/WiSe_2019_SoSe_2020/Team.html#Marvin "Link (German only)")
+
+Other projects from GitLab will be uploaded to GitHub in the future.
