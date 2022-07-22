@@ -27,10 +27,14 @@ Personal open source projects can be accessed here. Other projects from GitLab w
     <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"/>
 </a>
 
-<a href="https://www.linkedin.com/in/marvin-alexander-schaecke/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+<a href="https://www.jetbrains.com/pycharm/">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/>
 </a>
 
 <a href="https://code.visualstudio.com">
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+</a>
+
+<a href="https://www.linkedin.com/in/marvin-alexander-schaecke/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
