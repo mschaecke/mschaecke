@@ -11,7 +11,7 @@ Personal open source projects can be accessed here. Other projects from GitLab w
 
 <h3 align="left">Closed source projects:</h3>
 
-- [Deep Anatomy](https://www.deepanatomy.de/Archive/WiSe_2019_SoSe_2020/Team.html#Marvin "Link (German only)") in cooperation with Fraunhofer MEVIS (Python, only available in German)
+- [Deep Anatomy](https://www.deepanatomy.de/Archive/WiSe_2019_SoSe_2020/Arbeitsgruppen/FrontBackend.html "Link to the Deep Anatomy project") in cooperation with Fraunhofer MEVIS (Python)
 
 <h3 align="left">Languages and tools:</h3>
 
